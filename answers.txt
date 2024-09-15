@@ -1,0 +1,3 @@
+Q1: Why might we consider using git?
+
+Answer: The two main reasons we should consider using git is for version control and collaboration. Git saves previous versions of files so if something happens to the files on your local device or you make changes that break your program, you can easily switch back to an older version. In addition, git makes it easier for multiple developers to work on a common code base at the same time. 
