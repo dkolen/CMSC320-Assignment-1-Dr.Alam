@@ -4,3 +4,8 @@ Answer: The two main reasons we should consider using git is for version control
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to the insurance industry to analyze the risks of certain products or policies. For example, if a company is looking to offer life insurance to a person, they can use data about their medical history to determine how risky the policy will be.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the history of two branches into a single branch, while rebasing takes the commits of your current branch and applies them to the head of another branch.
+
